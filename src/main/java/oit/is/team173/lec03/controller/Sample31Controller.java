@@ -17,7 +17,7 @@ import oit.is.team173.lec03.model.Room;
  */
 @Controller
 @RequestMapping("/sample3")
-public class Lec03Controller {
+public class Sample31Controller {
 
   @Autowired
   private Room room;
